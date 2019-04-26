@@ -1,0 +1,33 @@
+/* start register form */
+.register-image-container{
+	text-align: center;
+	height: 135px;
+}
+
+.register-image-container .register-default-image{
+	height: 115px;
+	width: 115px;
+	margin: auto;
+	border-radius: 50%;
+	cursor: pointer;
+}
+
+.register-image-container .register-file-input{
+	display: none;
+}
+/* End register form */
+
+/* start news section */
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/DroidNaskh-Regular.ttf);
+}
+
+.news-title-font{
+    font-family:myFirstFont !important;
+}
+/* end news section */
+
+/* satrt loading section */
+
+/* end loading section */
